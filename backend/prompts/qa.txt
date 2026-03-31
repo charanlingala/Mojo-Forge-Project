@@ -1,0 +1,14 @@
+Based on the product idea and PRD, generate test cases for the MVP.
+
+Include:
+1. Functional test cases
+2. Negative test cases
+3. Validation scenarios
+4. Edge cases
+5. Acceptance criteria
+
+Product idea:
+{idea}
+
+PRD:
+{prd}

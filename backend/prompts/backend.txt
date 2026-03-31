@@ -1,0 +1,15 @@
+Based on the product idea and PRD, generate a backend implementation plan.
+
+Include:
+1. Entities/data model
+2. API endpoints
+3. Request/response examples
+4. Validation logic
+5. Suggested database schema
+6. Business rules
+
+Product idea:
+{idea}
+
+PRD:
+{prd}

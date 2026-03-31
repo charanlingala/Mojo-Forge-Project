@@ -1,0 +1,14 @@
+Given the following product idea, generate a concise PRD in markdown.
+
+Include:
+1. Product title
+2. Problem statement
+3. Target users
+4. Core features
+5. User stories
+6. Non-goals
+7. Success metrics
+8. MVP scope
+
+Product idea:
+{idea}

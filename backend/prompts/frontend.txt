@@ -1,0 +1,15 @@
+Based on the product idea and PRD, generate a UI implementation plan.
+
+Include:
+1. Pages/screens
+2. Key components
+3. Form fields
+4. Validation rules
+5. User interactions
+6. Suggested component hierarchy
+
+Product idea:
+{idea}
+
+PRD:
+{prd}

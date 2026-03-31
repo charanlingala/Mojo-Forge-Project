@@ -1,0 +1,22 @@
+Compare the following generated outputs.
+
+Check for:
+1. Missing features
+2. Inconsistencies
+3. Backend/frontend mismatch
+4. Untested features
+5. Scope gaps
+
+Return a review report in markdown.
+
+PRD:
+{prd}
+
+UI Plan:
+{ui_plan}
+
+API Spec:
+{api_spec}
+
+Test Cases:
+{test_cases}
