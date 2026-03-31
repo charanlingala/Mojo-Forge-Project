@@ -1,0 +1,12 @@
+@"
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+.next/
+dist/
+build/
+.env
+venv/
+__pycache__/
+*.log
+"@ | Out-File -Encoding utf8 .gitignore
