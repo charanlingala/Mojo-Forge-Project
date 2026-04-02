@@ -56,7 +56,7 @@ Final structured output is returned
 
 ## Project structure
 
-
+```
 MoJoForge/
 ├── backend/
 │   ├── agents/
@@ -75,7 +75,7 @@ MoJoForge/
 │   └── package.json
 │
 └── README.md
-
+```
 
 ## Frontend overview
 
