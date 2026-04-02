@@ -24,7 +24,7 @@ All results are saved as structured files so they can be directly used for devel
 
 # Project Structure
 
-
+```
 backend/
 ├── agents/
 │   ├── planner_agent.py
@@ -55,7 +55,7 @@ backend/
 │
 └── README.md
 
-
+```
 
 How the Backend Works
 The flow is straightforward:
